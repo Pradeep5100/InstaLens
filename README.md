@@ -146,6 +146,4 @@ Licensed under the [MIT License](LICENSE).
 
 ## 🧩 Author
 **InstaLens AI Intelligence Unit**
-**K JASHUVA AKHIL**
-📧 [jashuvaakhil777@gmail.com](mailto:jashuvaakhil777@gmail.com)
 🔗 [InstaAura Dashboard](http://localhost:8080)
